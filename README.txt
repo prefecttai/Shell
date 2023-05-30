@@ -1,5 +1,5 @@
 This is a working Shell terminal with specific testcases indicating which part of the Shell is tested
-An estimated of 90% of the Shell is working including Environmental variables, Tilde expansion and Wildcarding. Basic parsing and executing and signal handling are sucessfully tested. 
+This also includes Environmental variables, Tilde expansion and Wildcarding. Basic parsing and executing and signal handling are sucessfully tested. 
 
 Ctrl-c
 Up arrow
